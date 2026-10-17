@@ -1,4 +1,4 @@
-so# TabMail Support
+# TabMail Support
 
 This repository is the **public support tracker** for **TabMail** (Thunderbird add-on).
 
